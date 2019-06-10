@@ -1,5 +1,6 @@
 {\rtf1\ansi\ansicpg936\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;}
+{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fmodern\fcharset0 Courier-Bold;\f2\fnil\fcharset134 PingFangSC-Regular;
+}
 {\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red249\green249\blue249;\red38\green38\blue38;
 }
 {\*\expandedcolortbl;;\cssrgb\c26667\c26667\c26667;\cssrgb\c98039\c98039\c98039;\cssrgb\c20000\c20000\c20000;
@@ -16,6 +17,7 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
 \
-123123123
-nihaoa
-}
+123123123nihaoa\
+\
+
+\f2 \'b5\'da\'d2\'bb\'b4\'ce\'d0\'de\'b8\'c4}
